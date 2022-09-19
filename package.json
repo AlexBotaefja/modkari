@@ -6,7 +6,7 @@
   "scripts": {
     "test": "Thanks for using"
   },
-    },
+    
   "engines": {
     "node": "16.17.0",
     "npm": "8.15.0"
